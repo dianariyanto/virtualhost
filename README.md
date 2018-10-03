@@ -3,6 +3,8 @@ Virtualhost Manage Script
 
 Bash Script to allow create or delete apache/nginx virtual hosts on Ubuntu on a quick way.
 
+Auto setup VPS Ubuntu : https://github.com/dianariyanto/autosetupvps
+
 ## Installation ##
 
 1. Download the script
